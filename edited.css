@@ -1,0 +1,22 @@
+body {
+    background: url(conta.jpg); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 28px;
+    background-attachment: fixed;
+    color:#000000;
+}
+
+.button {
+ text-decoration:none;
+font-weight:600;
+font-size:20px;
+color:#000000;
+padding-top:12px;
+padding-bottom:12px;
+padding-left:40px;
+padding-right:40px;
+background-color:#0be3ff;
+border-radius:35px;
+border-style: solid;
+ }
